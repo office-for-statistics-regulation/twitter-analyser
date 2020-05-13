@@ -1,2 +1,4 @@
 *.pyc
 *.csv
+*.xml
+*.DS_Store
