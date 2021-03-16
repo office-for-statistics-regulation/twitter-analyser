@@ -3,3 +3,7 @@
 *.xml
 *.DS_Store
 *.idea
+**.csv*
+scrape-and-mine.py
+**osr-dashboard-creds.json*
+**/credentials.py*
