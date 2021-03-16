@@ -10,7 +10,7 @@ Below are screenshots of some of the functionality of the dashboard:
 ![](image/tweets.png)
 
 #### Hashtags
-![](image/hashtags.png)
+<img src="image/hashtags.png" alt="twitter logo" height="300"/>
 
 #### trigrams
 ![](image/trigrams.png)
