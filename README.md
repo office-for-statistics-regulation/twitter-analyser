@@ -10,13 +10,13 @@ Below are screenshots of some of the functionality of the dashboard:
 ![](image/tweets.png)
 
 #### Hashtags
-<img src="image/hashtags.png" alt="twitter logo" height="300"/>
+<img src="image/hashtags.png" alt="twitter logo" height="500"/>
 
 #### trigrams
-![](image/trigrams.png)
+<img src="image/trigrams.png" alt="twitter logo" height="500"/>
 
 #### Tweets per hour
-![](image/tweets_per_hour.png)
+<img src="image/tweets_per_hour.png" alt="twitter logo" height="500"/>
 
 
 # To Run
