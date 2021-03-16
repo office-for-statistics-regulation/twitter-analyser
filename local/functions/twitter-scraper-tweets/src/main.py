@@ -179,8 +179,6 @@ def scraping_topic(search_term, topic):
 def scrape_topic_or_mentions():
 	"""
 	Either scrape for terms or for mentions of an account
-
-	:param topic_or_mentions: <string> The topic or the account (hard-coded)
 	"""
 
 	print(f'Searching terms related to topic or account: {config.topic_or_mentions}')
