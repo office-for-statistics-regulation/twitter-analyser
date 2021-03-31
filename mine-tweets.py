@@ -35,7 +35,7 @@ def applying_url(row):
 
 def save_to_csv(df, name):
 	filename = f'{name}.csv'
-	save_path = os.path.dirname(os.path.abspath(__file__)) + '/data/' + filename
+	save_path = config.file_path + '/' + filename
 	return df.to_csv(save_path)
 
 
@@ -327,7 +327,7 @@ def mine_topic():
 	"""
 	Mines tweets
 	"""
-	df = pd.read_csv(config.load_path)
+	df = pd.read_csv(config.file_path + '/' + config.file_name)
 	mine_tweets(df)
 
 

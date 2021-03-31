@@ -37,8 +37,7 @@ def addRow(df, ls):
 
 
 def save_to_csv(df, topic):
-	filename = 'tweets.csv'
-	save_path = os.path.dirname(os.path.abspath(__file__)) + '/data/' + filename
+	save_path = config.file_path + '/' + config.file_name
 	return df.to_csv(save_path)
 
 
