@@ -41,4 +41,4 @@ When filing an issue, make sure to answer the questions in the Bug template.
 
 ## Code review process
 
-The Campus looks at Pull Requests on a regular basis but cannot unfortunately guarantee prompt implementation of Pull Requests.
+The OSR looks at Pull Requests on a regular basis but cannot unfortunately guarantee prompt implementation of Pull Requests.
