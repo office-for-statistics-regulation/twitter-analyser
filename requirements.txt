@@ -1,5 +1,5 @@
 pandas
-tweepy
+tweepy==3.10.0
 regex
 nltk
 sklearn
